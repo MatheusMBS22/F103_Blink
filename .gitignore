@@ -1,0 +1,13 @@
+# Arquivos de build
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.su
+
+# Arquivos de IDE
+.settings/
