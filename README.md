@@ -1,5 +1,10 @@
 # F103_Blink
 
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+![IDE](https://img.shields.io/badge/IDE-STM32CubeIDE-red)
+![Placa](https://img.shields.io/badge/Placa-Nucleo--F103RB-green)
+![Biblioteca](https://img.shields.io/badge/Biblioteca-HAL-orange)
+
 Projeto de blink de LED com STM32F103 utilizando STM32CubeIDE e a biblioteca HAL.
 
 ## Hardware
